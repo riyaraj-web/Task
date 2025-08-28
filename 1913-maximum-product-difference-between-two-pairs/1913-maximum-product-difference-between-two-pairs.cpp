@@ -19,13 +19,13 @@ public:
 
             //track smallest and secondsmallest
             if(num < smallest){
-                secondSmallest = smallest;
+                secondsmallest = smallest;
                 smallest = num;
             } else {
-                secondSmallest = min(secondSmallest, num);
+                secondsmallest = min(secondsmallest, num);
             }
         }
-        return (largest * secondLargest) - (smallest * secondSmallest);
+        return (largest * secondLargest) - (smallest * secondsmallest);
         
     }
 };
