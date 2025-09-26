@@ -1,14 +1,21 @@
 class Solution {
 public:
-    bool isValidBST(TreeNode* root) {
-        return valid(root,LONG_MIN, LONG_MAX);
+    TreeNode* prev = NULL;
+    bool flag = true;
+    void inorder(TreeNode* root) {
+        if(root==NULL) return;
+        inorder(root->left);
+        if(prev!=NULL){
+            if(root->val <= prev->val){
+                flag = false;
+                return;
+            }
+        }
+        prev = root;
+        inorder(root->right);
     }
-private:
-    bool valid(TreeNode* node, long minimum, long maximum){
-        if (!node) return true;
-
-        if (!(node->val > minimum && node->val < maximum)) return false;
-
-        return valid(node->left, minimum, node->val) && valid(node->right, node->val, maximum);
+    bool isValidBST(TreeNode* root){
+        inorder(root);
+        return flag;
     }
 };
