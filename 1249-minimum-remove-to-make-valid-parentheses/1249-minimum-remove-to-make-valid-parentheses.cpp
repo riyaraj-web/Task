@@ -1,36 +1,45 @@
 class Solution {
 public:
+    //approach -2
+    //iterate left to right -> eliminate extra close brackets
+    //iterate right to left -> eliminate extra open brackets
+
     string minRemoveToMakeValid(string s) {
         int n = s.length();
 
-        stack<int> st;
-        unordered_set<int> remove_idx;
-
-        for(int i = 0; i < n; i++){
-            if(s[i] == '('){
-                st.push(i);
-            } else if(s[i] == ')') {
-                if(st.empty()) {
-                    remove_idx.insert(i);
-                } else {
-                    st.pop();
-                }
-            }
-        }
-        
-        //only open brackets "((("
-        while(!st.empty()) {
-            remove_idx.insert(st.top());
-            st.pop();
-        }
-
         string result = "";
-
+        
+        //iterate left to right -> eliminate extra close brackets
+        int open = 0;
         for(int i = 0; i < n; i++){
-            if(remove_idx.find(i) == remove_idx.end()) {
+
+             if(s[i] >= 'a' && s[i] <= 'z'){
                 result.push_back(s[i]);
+             } else if(s[i] == '('){
+                open++;
+                result.push_back(s[i]);
+             } else if(open > 0){
+                open--;
+                result.push_back(s[i]);
+             }
+        }
+        //iterate right to left -> eliminate extra open brackets
+        string final_result = "";
+
+        int close = 0;
+
+        for (int i = result.length()-1; i >= 0; i--){
+            if(result[i] >= 'a' && result[i] <= 'z'){
+                final_result.push_back(result[i]);
+            } else if (result[i] == ')'){
+                close++;
+                final_result.push_back(result[i]);
+            } else if(close > 0){
+                close--;
+                final_result.push_back(result[i]);
             }
         }
-        return result;
+        reverse(begin(final_result), end(final_result));
+        return final_result;
     }
 };
