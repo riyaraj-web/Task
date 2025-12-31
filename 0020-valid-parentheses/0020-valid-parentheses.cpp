@@ -1,30 +1,37 @@
 class Solution {
 public:
     bool isValid(string s) {
-        if (s.size() % 2) return false;
-        stack<char> st;  // only need one stack
+        stack<char> st;
         
-        for(int i = 0; i < s.size(); i++){
-            // push opening brackets
-            if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
-                st.push(s[i]);
+        for (char &ch:s){
+            //opening bracket
+            if(ch== '(' || ch== '{' || ch== '[') {
+                st.push(ch);
             }
-            else if(s[i] == ')' || s[i] == '}' || s[i] == ']') {
-                // check if stack is empty (no matching opening bracket)
-                if (st.empty()) return false;
-                
-                // check if closing bracket matches the most recent opening bracket
-                if ((s[i] == ')' && st.top() == '(') ||
-                    (s[i] == '}' && st.top() == '{') ||
-                    (s[i] == ']' && st.top() == '[')) {
-                    st.pop();  // valid pair, remove opening bracket
-                } else {
-                    return false;  // mismatch found
+            //closing bracket
+            else {
+                //stack is empty
+                if(st.size()==0) return false;
+                char tp = st.top();
+                st.pop();
+
+                if(ch == ']' && tp == '['){
+                    continue;
+                }
+                else if(ch == '}' && tp == '{'){
+                    continue;
+                }
+                else if(ch == ')' && tp == '('){
+                    continue;
+                }
+                else{
+                    return false;
                 }
             }
-            // If character is not a bracket, we ignore it (or could return false)
         }
-        
-        return st.empty();  // valid only if all brackets are matched
+
+        if(st.empty())return true;
+        return false;
+
     }
 };
