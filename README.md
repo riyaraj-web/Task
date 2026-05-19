@@ -9,6 +9,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyaraj-web/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/riyaraj-web/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/riyaraj-web/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyaraj-web/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -22,6 +23,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyaraj-web/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/riyaraj-web/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyaraj-web/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
