@@ -28,6 +28,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/riyaraj-web/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/riyaraj-web/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/riyaraj-web/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Simulation
@@ -43,6 +44,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/riyaraj-web/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/riyaraj-web/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyaraj-web/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
