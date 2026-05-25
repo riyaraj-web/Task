@@ -32,10 +32,12 @@
 | [0205-isomorphic-strings](https://github.com/riyaraj-web/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/riyaraj-web/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/riyaraj-web/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/riyaraj-web/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/riyaraj-web/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -95,4 +97,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/riyaraj-web/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 <!---LeetCode Topics End-->
