@@ -66,10 +66,12 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/riyaraj-web/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/riyaraj-web/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/riyaraj-web/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/riyaraj-web/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/riyaraj-web/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
