@@ -52,6 +52,7 @@
 | [0205-isomorphic-strings](https://github.com/riyaraj-web/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/riyaraj-web/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyaraj-web/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/riyaraj-web/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -122,8 +123,17 @@
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/riyaraj-web/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/riyaraj-web/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/riyaraj-web/LeetCode/tree/main/0394-decode-string/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/riyaraj-web/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/riyaraj-web/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 <!---LeetCode Topics End-->
