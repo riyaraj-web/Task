@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/riyaraj-web/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/riyaraj-web/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/riyaraj-web/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
@@ -105,6 +106,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -114,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 <!---LeetCode Topics End-->
