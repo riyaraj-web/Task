@@ -85,12 +85,14 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -150,9 +152,11 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
