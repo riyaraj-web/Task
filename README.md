@@ -37,6 +37,7 @@
 | [0394-decode-string](https://github.com/riyaraj-web/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/riyaraj-web/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0677-map-sum-pairs](https://github.com/riyaraj-web/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/riyaraj-web/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/riyaraj-web/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/riyaraj-web/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/riyaraj-web/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/riyaraj-web/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/riyaraj-web/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyaraj-web/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Linked List
@@ -134,6 +137,7 @@
 | [0227-basic-calculator-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/riyaraj-web/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/riyaraj-web/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/riyaraj-web/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/riyaraj-web/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
