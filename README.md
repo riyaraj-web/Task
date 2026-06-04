@@ -36,6 +36,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0394-decode-string](https://github.com/riyaraj-web/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/riyaraj-web/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0677-map-sum-pairs](https://github.com/riyaraj-web/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/riyaraj-web/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyaraj-web/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/riyaraj-web/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0677-map-sum-pairs](https://github.com/riyaraj-web/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/riyaraj-web/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 ## Backtracking
@@ -141,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0677-map-sum-pairs](https://github.com/riyaraj-web/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/riyaraj-web/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -170,4 +173,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0677-map-sum-pairs](https://github.com/riyaraj-web/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
 <!---LeetCode Topics End-->
