@@ -88,6 +88,7 @@
 | [0101-symmetric-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -154,9 +155,19 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0572-subtree-of-another-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0572-subtree-of-another-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
