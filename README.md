@@ -76,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/riyaraj-web/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/riyaraj-web/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/riyaraj-web/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/riyaraj-web/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
@@ -143,6 +144,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/riyaraj-web/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/riyaraj-web/LeetCode/tree/main/0394-decode-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
