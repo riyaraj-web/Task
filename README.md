@@ -13,6 +13,7 @@
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/riyaraj-web/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/riyaraj-web/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/riyaraj-web/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/riyaraj-web/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -26,6 +27,7 @@
 | [0063-unique-paths-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/riyaraj-web/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/riyaraj-web/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyaraj-web/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Prefix Sum
@@ -119,6 +121,7 @@
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/riyaraj-web/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Sorting
