@@ -9,6 +9,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyaraj-web/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/riyaraj-web/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/riyaraj-web/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/riyaraj-web/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/riyaraj-web/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyaraj-web/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -105,6 +107,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -114,6 +117,7 @@
 | [0101-symmetric-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -143,6 +147,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
