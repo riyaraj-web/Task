@@ -162,6 +162,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/riyaraj-web/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/riyaraj-web/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
