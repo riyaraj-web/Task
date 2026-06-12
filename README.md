@@ -115,6 +115,7 @@
 | [0572-subtree-of-another-tree](https://github.com/riyaraj-web/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/riyaraj-web/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -127,6 +128,7 @@
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/riyaraj-web/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/riyaraj-web/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/riyaraj-web/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -162,6 +164,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/riyaraj-web/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/riyaraj-web/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/riyaraj-web/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/riyaraj-web/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
