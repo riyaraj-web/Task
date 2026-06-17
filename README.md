@@ -51,12 +51,14 @@
 | [0678-valid-parenthesis-string](https://github.com/riyaraj-web/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/riyaraj-web/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/riyaraj-web/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/riyaraj-web/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/riyaraj-web/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
