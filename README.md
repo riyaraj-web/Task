@@ -18,6 +18,7 @@
 | [0994-rotting-oranges](https://github.com/riyaraj-web/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1840-maximum-building-height](https://github.com/riyaraj-web/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/riyaraj-web/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/riyaraj-web/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyaraj-web/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -142,6 +143,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/riyaraj-web/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/riyaraj-web/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1840-maximum-building-height](https://github.com/riyaraj-web/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [1840-maximum-building-height](https://github.com/riyaraj-web/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
