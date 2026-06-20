@@ -5,9 +5,9 @@ public:
         int n = nums.size();
         unordered_map<int,int> m;
         for(int i=0;i<n;i++){
-            int rem = target - nums[i];
-            if(m.find(rem)!=m.end()){
-                ans.push_back(m[rem]);
+            int remaining= target - nums[i];
+            if(m.find(remaining)!=m.end()){
+                ans.push_back(m[remaining]);
                 ans.push_back(i);
             }
             else m[nums[i]] = i;
