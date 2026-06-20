@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/riyaraj-web/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0063-unique-paths-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0134-gas-station](https://github.com/riyaraj-web/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -71,6 +72,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/riyaraj-web/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/riyaraj-web/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/riyaraj-web/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyaraj-web/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
