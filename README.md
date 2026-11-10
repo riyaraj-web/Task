@@ -25,6 +25,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyaraj-web/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyaraj-web/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/riyaraj-web/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/riyaraj-web/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@
 | [0678-valid-parenthesis-string](https://github.com/riyaraj-web/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/riyaraj-web/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyaraj-web/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/riyaraj-web/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
