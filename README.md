@@ -73,6 +73,7 @@
 | [0680-valid-palindrome-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/riyaraj-web/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/riyaraj-web/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/riyaraj-web/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@
 | [0227-basic-calculator-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1840-maximum-building-height](https://github.com/riyaraj-web/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/riyaraj-web/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
