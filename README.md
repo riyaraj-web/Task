@@ -57,6 +57,7 @@
 | [0678-valid-parenthesis-string](https://github.com/riyaraj-web/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/riyaraj-web/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/riyaraj-web/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
