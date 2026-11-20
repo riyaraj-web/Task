@@ -54,6 +54,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/riyaraj-web/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/riyaraj-web/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0394-decode-string](https://github.com/riyaraj-web/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0443-string-compression](https://github.com/riyaraj-web/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/riyaraj-web/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0677-map-sum-pairs](https://github.com/riyaraj-web/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/riyaraj-web/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -118,6 +119,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/riyaraj-web/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/riyaraj-web/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/riyaraj-web/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/riyaraj-web/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/riyaraj-web/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
