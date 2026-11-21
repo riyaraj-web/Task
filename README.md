@@ -8,6 +8,7 @@
 | [0063-unique-paths-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0134-gas-station](https://github.com/riyaraj-web/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/riyaraj-web/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0322-coin-change](https://github.com/riyaraj-web/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/riyaraj-web/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -41,6 +42,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riyaraj-web/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyaraj-web/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## String
@@ -129,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/riyaraj-web/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,5 +270,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riyaraj-web/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
