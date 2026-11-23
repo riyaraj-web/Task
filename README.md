@@ -65,6 +65,7 @@
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riyaraj-web/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/riyaraj-web/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/riyaraj-web/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/riyaraj-web/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/riyaraj-web/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
