@@ -26,6 +26,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/riyaraj-web/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/riyaraj-web/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/riyaraj-web/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyaraj-web/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/riyaraj-web/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/riyaraj-web/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/riyaraj-web/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -98,6 +99,7 @@
 | [0677-map-sum-pairs](https://github.com/riyaraj-web/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/riyaraj-web/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/riyaraj-web/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyaraj-web/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +277,5 @@
 | [0209-minimum-size-subarray-sum](https://github.com/riyaraj-web/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riyaraj-web/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyaraj-web/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
