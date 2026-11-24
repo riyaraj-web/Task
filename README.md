@@ -17,6 +17,7 @@
 | [0695-max-area-of-island](https://github.com/riyaraj-web/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/riyaraj-web/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/riyaraj-web/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0944-delete-columns-to-make-sorted](https://github.com/riyaraj-web/LeetCode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/riyaraj-web/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/riyaraj-web/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/riyaraj-web/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -63,6 +64,7 @@
 | [0677-map-sum-pairs](https://github.com/riyaraj-web/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/riyaraj-web/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/riyaraj-web/LeetCode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riyaraj-web/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/riyaraj-web/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -278,4 +280,8 @@
 | [0219-contains-duplicate-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riyaraj-web/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyaraj-web/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/riyaraj-web/LeetCode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 <!---LeetCode Topics End-->
