@@ -74,6 +74,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riyaraj-web/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/riyaraj-web/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/riyaraj-web/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1759-count-number-of-homogenous-substrings](https://github.com/riyaraj-web/LeetCode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/riyaraj-web/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/riyaraj-web/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/riyaraj-web/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -202,6 +203,7 @@
 | [0012-integer-to-roman](https://github.com/riyaraj-web/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/riyaraj-web/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/riyaraj-web/LeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [1759-count-number-of-homogenous-substrings](https://github.com/riyaraj-web/LeetCode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1840-maximum-building-height](https://github.com/riyaraj-web/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/riyaraj-web/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Union-Find
